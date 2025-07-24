@@ -32,3 +32,10 @@ Week 1 - AWS Baiscs
 <img width="972" height="453" alt="image" src="https://github.com/user-attachments/assets/9d6d44ae-8b4b-4c29-8735-509c85dd1469" />
 
 
+-> Benefits of AWS security
+   - Keep data safe
+   - Meet complaince requirements
+   - Save money
+   - Scale quickly
+
+
